@@ -21,7 +21,7 @@ Clean UI and modular code
 
 Clone the repository
 
-git clone https://github.com/<your-username>/SnakeGame.git
+git clone https://github.com/Vrrsha/SnakeGame.git
 
 
 Open the project in NetBeans or IntelliJ IDEA
